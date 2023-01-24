@@ -1,1 +1,2 @@
 this is a file
+this file is now appended with some more text
